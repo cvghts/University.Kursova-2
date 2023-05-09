@@ -1,0 +1,4 @@
+﻿  Func.cpp
+C:\Users\Наташа\Desktop\Курсова - 2\Matrix готовая\Project1\Func.cpp(325): warning C4715: det: значение возвращается не при всех путях выполнения
+  Func.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project1.vcxproj -> C:\Users\Наташа\Desktop\Курсова - 2\Matrix готовая\x64\Debug\Project1.exe

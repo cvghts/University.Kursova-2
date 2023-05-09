@@ -1,0 +1,10 @@
+D:\KURSOVOI\Project1\Project1\x64\Release\Project1.vcxprojAssemblyReference.cache
+D:\KURSOVOI\Project1\Project1\x64\Release\Project1.MyForm.resources
+D:\KURSOVOI\Project1\Project1\x64\Release\Project1.vcxproj.GenerateResource.cache
+D:\KURSOVOI\Matrix Готово\Project1\x64\Release\Project1.vcxprojAssemblyReference.cache
+D:\KURSOVOI\Matrix Готово\Project1\x64\Release\Project1.MyForm.resources
+D:\KURSOVOI\Matrix Готово\Project1\x64\Release\Project1.vcxproj.GenerateResource.cache
+C:\Users\Наташа\Desktop\Курсова - 2\Matrix готовая\Project1\x64\Release\Project1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Наташа\Desktop\Курсова - 2\Matrix готовая\Project1\x64\Release\Project1.MyForm.resources
+C:\Users\Наташа\Desktop\Курсова - 2\Matrix готовая\Project1\x64\Release\Project1.vcxproj.GenerateResource.cache
+C:\Users\Наташа\Desktop\Курсова - 2\Matrix готовая\Project1\x64\Release\Project1.vcxproj.AssemblyReference.cache

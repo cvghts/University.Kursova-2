@@ -1,0 +1,13 @@
+﻿  Func.cpp
+  MyForm.cpp
+D:\KURSOVOI\Matrix Готово\Project1\MyForm.cpp(116,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\KURSOVOI\Matrix Готово\Project1\MyForm.cpp(153,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\KURSOVOI\Matrix Готово\Project1\MyForm.cpp(277,6): warning C4552: "-": результат выражения не используется
+D:\KURSOVOI\Matrix Готово\Project1\MyForm.cpp(312,6): warning C4552: "-": результат выражения не используется
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+D:\KURSOVOI\Matrix Готово\Project1\Func.cpp(325): warning C4715: det: значение возвращается не при всех путях выполнения
+  Func.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+MyForm.obj : error LNK2028: ссылка на неразрешенную лексему (0A00050A) "double * * __cdecl AddMatrix<double,int>(double * *,double * *,int,int)" (??$AddMatrix@NH@@$$FYAPAPANPAPAN0HH@Z) в функции "private: void __clrcall Project1::MyForm::plus_Click(class System::Object ^,class System::EventArgs ^)" (?plus_Click@MyForm@Project1@@$$FA$AAMXP$AAVObject@System@@P$AAVEventArgs@4@@Z)
+MyForm.obj : error LNK2019: ссылка на неразрешенный внешний символ "double * * __cdecl AddMatrix<double,int>(double * *,double * *,int,int)" (??$AddMatrix@NH@@$$FYAPAPANPAPAN0HH@Z) в функции "private: void __clrcall Project1::MyForm::plus_Click(class System::Object ^,class System::EventArgs ^)" (?plus_Click@MyForm@Project1@@$$FA$AAMXP$AAVObject@System@@P$AAVEventArgs@4@@Z).
+D:\KURSOVOI\Matrix Готово\Debug\Project1.exe : fatal error LNK1120: неразрешенных внешних элементов: 2

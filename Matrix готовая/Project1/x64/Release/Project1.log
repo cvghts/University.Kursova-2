@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\Наташа\Desktop\Курсова - 2\Matrix готовая\Project1\MyForm.cpp(231,47): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+C:\Users\Наташа\Desktop\Курсова - 2\Matrix готовая\Project1\MyForm.cpp(269,47): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+C:\Users\Наташа\Desktop\Курсова - 2\Matrix готовая\Project1\MyForm.cpp(373,6): warning C4552: "-": результат выражения не используется
+C:\Users\Наташа\Desktop\Курсова - 2\Matrix готовая\Project1\MyForm.cpp(408,6): warning C4552: "-": результат выражения не используется
+  Func.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project1.vcxproj -> C:\Users\Наташа\Desktop\Курсова - 2\Matrix готовая\x64\Release\Project1.exe
